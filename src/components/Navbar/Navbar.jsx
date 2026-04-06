@@ -200,7 +200,7 @@ const Navbar = () => {
           className="text-xl font-bold tracking-tighter cursor-pointer group"
         >
           <span className="text-[#8245ec] group-hover:text-white transition-colors duration-300">
-            A
+            F
           </span>
           <span className="text-white group-hover:text-[#8245ec] transition-colors duration-300">
             S
