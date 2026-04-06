@@ -28,8 +28,8 @@ const About = () => {
             >
               <div className="relative aspect-square w-full max-w-[380px] mx-auto lg:max-w-none rounded-2xl overflow-hidden border border-white/5 group shadow-2xl bg-[#0f1115]">
                 <img
-                  src="/profile2.png"
-                  alt="Aizah Sarfaraz"
+                  src="/profile2.jpg"
+                  alt="Md Faisal Shakeel"
                   className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105 opacity-90 group-hover:opacity-100"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#050414] via-transparent to-transparent opacity-40"></div>
@@ -78,7 +78,7 @@ const About = () => {
             {/* FIXED HEIGHT BOX: Prevents Layout Shifting */}
             <div className="text-lg md:text-xl text-gray-400 font-light flex flex-wrap gap-x-2 min-h-[30px] md:min-h-[40px] items-center">
               <span>I'm</span>
-              <span className="text-white font-semibold">Aizah Sarfaraz,</span>
+              <span className="text-white font-semibold">Md Faisal Shakeel,</span>
               <span>a</span>
               <div className="inline-block min-w-[180px]">
                 <TypeAnimation
